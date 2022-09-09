@@ -2,15 +2,15 @@
 
 # assignment1
 Navigate to assignment1 folder
-Install dependencies
-npm install
-Run the script to get the episodes with characters
-npm run episodes
+1. Install dependencies
+    npm install
+2. Run the script to get the episodes with characters
+    npm run episodes
 
 # assignment2
 Navigate to assignment2 folder
-Run the script using node
-node counter.js
+1. Run the script using node
+    node counter.js
 
 # assignment3
 Data can be passed between components in following ways,
