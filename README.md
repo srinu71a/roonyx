@@ -4,7 +4,7 @@
 Navigate to assignment1 folder
 1. Install dependencies.
     - npm install
-2. Run the script to get the episodes with characters.
+2. Run the script to get the episodes with characters. Install typescript globally if the script dosen't recognise tsc.
     - npm run episodes
 
 # assignment2
