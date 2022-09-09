@@ -1,18 +1,18 @@
-##roonyx
+## roonyx
 
-#assignment1
+# assignment1
 Navigate to assignment1 folder
 Install dependencies
 npm install
 Run the script to get the episodes with characters
 npm run episodes
 
-#assignment2
+# assignment2
 Navigate to assignment2 folder
 Run the script using node
 node counter.js
 
-#assignment3
+# assignment3
 Data can be passed between components in following ways,
 1. Using Inputs and Outputs.
     This approach works best when ComponentA and ComponentB hold parent and child relationship.
@@ -29,7 +29,7 @@ Data can be passed between components in following ways,
 4. Using Local/session storage.
     Data can be saved to storage in one component and can be consumed in any other component accross the app.
 
-#assignment4
+# assignment4
 The template is incorrect. There in no closing div tag and opening button tag is missing.
 The method getUserName() in html template is not availabe in component Class file.
 There is no Inline or seperate style file. So the 'user-panel' used in template may not have any effect.
