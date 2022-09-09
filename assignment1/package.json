@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "episodes": "tsc episodes.ts && node episodes.js"
+    },
+    "dependencies": {
+        "axios": "^0.27.2",
+        "typescript": "^4.8.3"
+    }
+}
